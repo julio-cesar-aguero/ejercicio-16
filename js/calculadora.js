@@ -39,5 +39,4 @@ const actualizar = (display, button) => {
         display.innerHTML = '';
     }
     display.innerHTML += button.innerHTML;
-    /*display.innerHTML = display.innerHTML + button.innerHTML;  */
 }
